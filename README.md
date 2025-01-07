@@ -85,6 +85,5 @@
 ###
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/dimbinirina?style=for-the-badge)](https://peerlist.io/dimbinirina)
-[![roadmap.sh](https://roadmap.sh/card/tall/66fa4162c45e253cb06e056c?variant=dark)](https://roadmap.sh)
 
 ###
